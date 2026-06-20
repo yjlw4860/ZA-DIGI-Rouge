@@ -630,7 +630,7 @@ export const starterPassiveAbilities: StarterPassiveAbilities = {
   [SpeciesId.KLINKLANG]: { 0: AbilityId.STEELY_SPIRIT },
   [SpeciesId.TYNAMO]: { 0: AbilityId.POISON_HEAL },
   [SpeciesId.EELEKTRIK]: { 0: AbilityId.POISON_HEAL },
-  [SpeciesId.EELEKTROSS]: { 0: AbilityId.POISON_HEAL, 1: AbilityId.SPEED_BOOST },
+  [SpeciesId.EELEKTROSS]: { 0: AbilityId.POISON_HEAL, 1: AbilityId.POISON_HEAL },
   [SpeciesId.ELGYEM]: { 0: AbilityId.BEADS_OF_RUIN },
   [SpeciesId.BEHEEYEM]: { 0: AbilityId.BEADS_OF_RUIN },
   [SpeciesId.LITWICK]: { 0: AbilityId.SHADOW_TAG },
